@@ -1,6 +1,6 @@
 import axios from 'axios';
 
 const api = axios.create({
-    baseURL: 'https://git.heroku.com/quiet-coast-34395.git',
+    baseURL:'https://cherry-custard-19541.herokuapp.com/'
 })
 export default api;
